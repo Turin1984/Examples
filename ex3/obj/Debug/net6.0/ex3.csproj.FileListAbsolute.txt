@@ -1,0 +1,15 @@
+C:\Загрузки\GeekBrains\GV_3Block\Examples\ex3\bin\Debug\net6.0\ex3.exe
+C:\Загрузки\GeekBrains\GV_3Block\Examples\ex3\bin\Debug\net6.0\ex3.deps.json
+C:\Загрузки\GeekBrains\GV_3Block\Examples\ex3\bin\Debug\net6.0\ex3.runtimeconfig.json
+C:\Загрузки\GeekBrains\GV_3Block\Examples\ex3\bin\Debug\net6.0\ex3.dll
+C:\Загрузки\GeekBrains\GV_3Block\Examples\ex3\bin\Debug\net6.0\ex3.pdb
+C:\Загрузки\GeekBrains\GV_3Block\Examples\ex3\obj\Debug\net6.0\ex3.csproj.AssemblyReference.cache
+C:\Загрузки\GeekBrains\GV_3Block\Examples\ex3\obj\Debug\net6.0\ex3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Загрузки\GeekBrains\GV_3Block\Examples\ex3\obj\Debug\net6.0\ex3.AssemblyInfoInputs.cache
+C:\Загрузки\GeekBrains\GV_3Block\Examples\ex3\obj\Debug\net6.0\ex3.AssemblyInfo.cs
+C:\Загрузки\GeekBrains\GV_3Block\Examples\ex3\obj\Debug\net6.0\ex3.csproj.CoreCompileInputs.cache
+C:\Загрузки\GeekBrains\GV_3Block\Examples\ex3\obj\Debug\net6.0\ex3.dll
+C:\Загрузки\GeekBrains\GV_3Block\Examples\ex3\obj\Debug\net6.0\refint\ex3.dll
+C:\Загрузки\GeekBrains\GV_3Block\Examples\ex3\obj\Debug\net6.0\ex3.pdb
+C:\Загрузки\GeekBrains\GV_3Block\Examples\ex3\obj\Debug\net6.0\ex3.genruntimeconfig.cache
+C:\Загрузки\GeekBrains\GV_3Block\Examples\ex3\obj\Debug\net6.0\ref\ex3.dll
